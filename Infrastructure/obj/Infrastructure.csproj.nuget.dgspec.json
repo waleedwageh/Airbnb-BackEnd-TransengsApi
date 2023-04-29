@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MyProject\\BackEnd\\Two project ITI\\Client-TransengsClient\\AirbnbFinalProjectBackEnd-TransengsApi\\Infrastructure\\Infrastructure.csproj": {}
+  },
+  "projects": {
+    "E:\\MyProject\\BackEnd\\Two project ITI\\Client-TransengsClient\\AirbnbFinalProjectBackEnd-TransengsApi\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MyProject\\BackEnd\\Two project ITI\\Client-TransengsClient\\AirbnbFinalProjectBackEnd-TransengsApi\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "E:\\MyProject\\BackEnd\\Two project ITI\\Client-TransengsClient\\AirbnbFinalProjectBackEnd-TransengsApi\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Waleed\\.nuget\\packages\\",
+        "outputPath": "E:\\MyProject\\BackEnd\\Two project ITI\\Client-TransengsClient\\AirbnbFinalProjectBackEnd-TransengsApi\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Waleed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MyProject\\BackEnd\\Two project ITI\\Client-TransengsClient\\AirbnbFinalProjectBackEnd-TransengsApi\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MyProject\\BackEnd\\Two project ITI\\Client-TransengsClient\\AirbnbFinalProjectBackEnd-TransengsApi\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "E:\\MyProject\\BackEnd\\Two project ITI\\Client-TransengsClient\\AirbnbFinalProjectBackEnd-TransengsApi\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Waleed\\.nuget\\packages\\",
+        "outputPath": "E:\\MyProject\\BackEnd\\Two project ITI\\Client-TransengsClient\\AirbnbFinalProjectBackEnd-TransengsApi\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Waleed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\MyProject\\BackEnd\\Two project ITI\\Client-TransengsClient\\AirbnbFinalProjectBackEnd-TransengsApi\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\MyProject\\BackEnd\\Two project ITI\\Client-TransengsClient\\AirbnbFinalProjectBackEnd-TransengsApi\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[39.61.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

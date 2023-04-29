@@ -1,0 +1,72 @@
+F:\airbnb project\Backend\Domain\bin\Debug\net5.0\Domain.deps.json
+F:\airbnb project\Backend\Domain\bin\Debug\net5.0\Domain.dll
+F:\airbnb project\Backend\Domain\bin\Debug\net5.0\ref\Domain.dll
+F:\airbnb project\Backend\Domain\bin\Debug\net5.0\Domain.pdb
+F:\airbnb project\Backend\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+F:\airbnb project\Backend\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\airbnb project\Backend\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+F:\airbnb project\Backend\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+F:\airbnb project\Backend\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+F:\airbnb project\Backend\Domain\obj\Debug\net5.0\Domain.dll
+F:\airbnb project\Backend\Domain\obj\Debug\net5.0\ref\Domain.dll
+F:\airbnb project\Backend\Domain\obj\Debug\net5.0\Domain.pdb
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\Domain\bin\Debug\net5.0\Domain.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\Domain\bin\Debug\net5.0\ref\Domain.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\Domain\bin\Debug\net5.0\Domain.pdb
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\ref\Domain.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Domain\bin\Debug\net5.0\Domain.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Domain\bin\Debug\net5.0\ref\Domain.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Domain\bin\Debug\net5.0\Domain.pdb
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\ref\Domain.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Domain\obj\Debug\net5.0\Domain.pdb
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\Domain\bin\Debug\net5.0\Domain.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\Domain\bin\Debug\net5.0\Domain.pdb
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Debug\net5.0\Domain.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Debug\net5.0\ref\Domain.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Debug\net5.0\Domain.pdb
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\Domain\bin\Debug\net5.0\ref\Domain.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\bin\Debug\net5.0\Domain.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\bin\Debug\net5.0\ref\Domain.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\bin\Debug\net5.0\Domain.pdb
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Debug\net5.0\Domain.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Debug\net5.0\ref\Domain.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Debug\net5.0\Domain.pdb

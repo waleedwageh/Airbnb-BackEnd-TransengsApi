@@ -1,0 +1,12 @@
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\bin\Release\net5.0\Domain.deps.json
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\bin\Release\net5.0\Domain.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\bin\Release\net5.0\ref\Domain.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\bin\Release\net5.0\Domain.pdb
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Release\net5.0\Domain.csproj.AssemblyReference.cache
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Release\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Release\net5.0\Domain.AssemblyInfoInputs.cache
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Release\net5.0\Domain.AssemblyInfo.cs
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Release\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Release\net5.0\Domain.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Release\net5.0\ref\Domain.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\Domain\obj\Release\net5.0\Domain.pdb

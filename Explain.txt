@@ -1,0 +1,20 @@
+genericrepo<T>
+prorperty
+name numofbeds genericrepo<Property>
+ApplicationContext context = new ApplicationContext();
+
+_context.Set<T>().tolist();
+
+
+
+
+specification pattern
+specification<T>
+includes orderby pagination where
+
+specification<Property>
+include(booking) include(user) orderby(price) where(name=)
+
+
+
+

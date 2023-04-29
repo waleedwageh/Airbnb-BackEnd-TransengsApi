@@ -1,0 +1,743 @@
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Api.exe
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Api.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Domain.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Infrastructure.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\AutoMapper.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Humanizer.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\airbnb project\Backend\api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\airbnb project\Backend\api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\airbnb project\Backend\api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\airbnb project\Backend\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Infrastructure.pdb
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Domain.pdb
+F:\airbnb project\Backend\api\obj\Debug\net5.0\Api.csproj.AssemblyReference.cache
+F:\airbnb project\Backend\api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\airbnb project\Backend\api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+F:\airbnb project\Backend\api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+F:\airbnb project\Backend\api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+F:\airbnb project\Backend\api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cs
+F:\airbnb project\Backend\api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cache
+F:\airbnb project\Backend\api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.Manifest.cache
+F:\airbnb project\Backend\api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.xml
+F:\airbnb project\Backend\api\obj\Debug\net5.0\scopedcss\bundle\Api.styles.css
+F:\airbnb project\Backend\api\obj\Debug\net5.0\Api.RazorTargetAssemblyInfo.cache
+F:\airbnb project\Backend\api\obj\Debug\net5.0\Api.dll
+F:\airbnb project\Backend\api\obj\Debug\net5.0\ref\Api.dll
+F:\airbnb project\Backend\api\obj\Debug\net5.0\Api.pdb
+<<<<<<< HEAD
+F:\airbnb project\Backend\api\bin\Debug\net5.0\appsettings.Development.json
+F:\airbnb project\Backend\api\bin\Debug\net5.0\appsettings.json
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Api.deps.json
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Api.runtimeconfig.json
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Api.runtimeconfig.dev.json
+F:\airbnb project\Backend\api\bin\Debug\net5.0\ref\Api.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Api.pdb
+F:\airbnb project\Backend\api\obj\Debug\net5.0\Api.csproj.CopyComplete
+F:\airbnb project\Backend\api\obj\Debug\net5.0\Api.genruntimeconfig.cache
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\Api.csproj.AssemblyReference.cache
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\Api.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\ref\Api.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\Api.pdb
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\appsettings.json
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\appsettings.Development.json
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Api.exe
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Api.deps.json
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Api.runtimeconfig.json
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Api.runtimeconfig.dev.json
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Api.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\ref\Api.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Api.pdb
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\AutoMapper.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Humanizer.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Domain.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Infrastructure.dll
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Infrastructure.pdb
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Domain.pdb
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.Manifest.cache
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.xml
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\scopedcss\bundle\Api.styles.css
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\Api.RazorTargetAssemblyInfo.cache
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\Api.csproj.CopyComplete
+E:\Private\Study\ITI\Final Project\Api\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\Api.genruntimeconfig.cache
+=======
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\airbnb project\Backend\api\bin\Debug\net5.0\Stripe.net.dll
+>>>>>>> 487988618a9ffbbab3f6f0f0c31468901b88af76
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\Api.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\ref\Api.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\obj\Debug\net5.0\Api.pdb
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\appsettings.json
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Api.exe
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Api.deps.json
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Api.runtimeconfig.json
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Api.runtimeconfig.dev.json
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Api.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\ref\Api.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Api.pdb
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Stripe.net.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Domain.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Domain.pdb
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.csproj.AssemblyReference.cache
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\scopedcss\bundle\Api.styles.css
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.RazorTargetAssemblyInfo.cache
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.csproj.CopyComplete
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.genruntimeconfig.cache
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\waleed\source\repos\FinelProjectITI\AirbnbFinalProjectBackEnd\api\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\appsettings.json
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\appsettings.Development.json
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Api.exe
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Api.deps.json
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Api.runtimeconfig.json
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Api.runtimeconfig.dev.json
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Api.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\ref\Api.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Api.pdb
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\AutoMapper.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Humanizer.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Stripe.net.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Domain.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Infrastructure.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Infrastructure.pdb
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\bin\Debug\net5.0\Domain.pdb
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.csproj.AssemblyReference.cache
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.Manifest.cache
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.xml
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\scopedcss\bundle\Api.styles.css
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.RazorTargetAssemblyInfo.cache
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.csproj.CopyComplete
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\ref\Api.dll
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.pdb
+E:\Private\Final Projet Last Edit\AirbnbFinalProjectBackEnd\Api\obj\Debug\net5.0\Api.genruntimeconfig.cache
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\appsettings.json
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\appsettings.Development.json
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Api.exe
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Api.deps.json
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Api.runtimeconfig.json
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Api.runtimeconfig.dev.json
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Api.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ref\Api.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Api.pdb
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\AutoMapper.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Humanizer.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Stripe.net.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Domain.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Infrastructure.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Infrastructure.pdb
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Domain.pdb
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.csproj.AssemblyReference.cache
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cs
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cache
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.Manifest.cache
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.xml
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\scopedcss\bundle\Api.styles.css
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.RazorTargetAssemblyInfo.cache
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.csproj.CopyComplete
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\ref\Api.dll
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.pdb
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.genruntimeconfig.cache
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Api.StaticWebAssets.xml
+E:\MyProject\BackEnd\Two project ITI\AirbnbFinalProjectBackEnd-TransengsApi\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\refint\Api.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\appsettings.Development.json
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\appsettings.json
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Api.exe
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Api.deps.json
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Api.runtimeconfig.json
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Api.runtimeconfig.dev.json
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Api.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ref\Api.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Api.pdb
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\AutoMapper.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Humanizer.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Stripe.net.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Domain.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Infrastructure.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Infrastructure.pdb
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\bin\Debug\net5.0\Domain.pdb
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.csproj.AssemblyReference.cache
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cs
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cache
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.Manifest.cache
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.xml
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\scopedcss\bundle\Api.styles.css
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.RazorTargetAssemblyInfo.cache
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.csproj.CopyComplete
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\ref\Api.dll
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.pdb
+E:\MyProject\BackEnd\Two project ITI\Client-TransengsClient\AirbnbFinalProjectBackEnd-TransengsApi\api\obj\Debug\net5.0\Api.genruntimeconfig.cache

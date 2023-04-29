@@ -1,0 +1,13 @@
+[{
+"name":"Unique Stays",
+"icon_image":"images/PropertyTypes/UniqueStays.jpg"
+},
+{
+"name":"Outdoor Getways",
+"icon_image":"images/PropertyTypes/OutdoorGetways.jpg"
+},
+{
+"name":"Entire Homes",
+"icon_image":"images/PropertyTypes/EntireHomes.jpg"
+}
+]
